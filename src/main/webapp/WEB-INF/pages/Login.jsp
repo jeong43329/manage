@@ -1,7 +1,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <html>
 	<head>
-		<title>ログイン画面</title>
+		<title>ログイン画面d</title>
 		<script src="${pageContext.request.contextPath}/js/jquery-1.10.2.min.js" type="text/javascript"></script>
 
 		<style type="text/css">
